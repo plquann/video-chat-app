@@ -1,0 +1,25 @@
+{
+  "name": "video-chat-app",
+  "version": "1.0.0",
+  "description": "Video chat app with React Express and Socket.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QuanKhs/video-chat-app.git"
+  },
+  "keywords": [
+    "chatapp",
+    "video-call",
+    "react",
+    "socket"
+  ],
+  "author": "quankhs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/QuanKhs/video-chat-app/issues"
+  },
+  "homepage": "https://github.com/QuanKhs/video-chat-app#readme"
+}
