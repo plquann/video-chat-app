@@ -4,6 +4,7 @@
   "description": "Video chat app with React Express and Socket.io",
   "main": "index.js",
   "scripts": {
+    "start": "nodemon index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -21,5 +22,11 @@
   "bugs": {
     "url": "https://github.com/QuanKhs/video-chat-app/issues"
   },
-  "homepage": "https://github.com/QuanKhs/video-chat-app#readme"
+  "homepage": "https://github.com/QuanKhs/video-chat-app#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.12",
+    "socket.io": "^4.1.3"
+  }
 }
