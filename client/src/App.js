@@ -41,11 +41,11 @@ function App() {
         <Typography variant="h2" align="center">
           Video Chat
         </Typography>
-        <VideoPlayer />
-        <Options>
-          <Notifications />
-        </Options>
       </AppBar>
+      <VideoPlayer />
+      <Options>
+        <Notifications />
+      </Options>
     </div>
   );
 }
